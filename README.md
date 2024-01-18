@@ -1,9 +1,7 @@
 We are learning bash 
-via online 
+via online from raghu 
 
 this is a test file 
 this is to test the shell
-great
+gresat
 its working
-now what 
-
