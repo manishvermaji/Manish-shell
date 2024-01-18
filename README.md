@@ -1,5 +1,5 @@
 We are learning bash 
-via online from Raghu 
+via online 
 
 this is a test file 
 this is to test the shell
